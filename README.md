@@ -1,10 +1,13 @@
 FOUNDAPP
+
 Found.
 
 Create posts of lost or found items
+
 Message other users to claim your items
 
 Everything stored via Google Firebase
+
 Create account using email
 
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-05 at 14 43 01" src="https://github.com/user-attachments/assets/68a9217a-e045-4c9f-85dc-938e233416c6" />
